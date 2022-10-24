@@ -10,4 +10,12 @@ Foram escolhidos 2 problemas para serem  resolvidos: </br></br>
 <li>Calculadora de Salário ( Vitor Alves Correia Lima de Aquino) </li>
 </ol>
 
+<h2> Objetivo Verificação e validação de Software</h2></br>
+<ol>
+<li>Arthur Fernandes de Andrade</li>
+<li>Vitor Alves Correia Lima de Aquino</li>
+</ol>
+
+
+
 
