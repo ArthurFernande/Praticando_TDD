@@ -14,8 +14,9 @@ Foram escolhidos 2 problemas para serem  resolvidos: </br></br>
 <ol>
 <li>Arthur Fernandes de Andrade</li>
 <li>Vitor Alves Correia Lima de Aquino</li>
-  O uso de TDD é muito eficiente pra quem gosta de programar desse jeito, eu mesmo tive um pouco de dificultade, pois a cada passo que é dado tem que ser feito um teste e eu não sou muito acostumado com isso. Está mais relacionado a hábito... Porém, realmente dar mais confiança, pois sempre podemos verificar nossos avanços nos códigos.
-  
+  O uso de TDD é muito eficiente pra quem gosta de programar desse jeito, eu mesmo tive um pouco de dificultade, pois a cada passo que é dado tem que ser feito um teste e eu não sou muito acostumado com isso. Está mais relacionado a hábito... Porém, realmente da mais confiança, pois sempre podemos verificar nossos avanços nos códigos e visualizar os testes que deram sucesso é muito satisfatório.
+  ![image](https://user-images.githubusercontent.com/34282128/197526543-d177eff6-7065-4c8a-b622-9b7348b45373.png)
+
 </ol>
 
 
